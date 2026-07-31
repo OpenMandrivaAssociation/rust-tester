@@ -5,8 +5,8 @@
 %global crate tester
 
 Name:           rust-%{crate}
-Version:        0.7.0
-Release:        2%{?dist}
+Version:        0.9.1
+Release:        1%{?dist}
 Summary:        Fork of Rust's `test` crate that doesn't require unstable language features
 
 # Upstream license specification: MIT OR Apache-2.0
